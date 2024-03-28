@@ -11,6 +11,8 @@ namespace QuizFour
 
             Console.WriteLine("You have Database Access");
 
+            console.WriteLine("Migrate to database")
+
         }
     }
 }
